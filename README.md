@@ -1,3 +1,5 @@
 ### This repo is for a heroku app for the ECG Anomaly Detection project.
 
-https://ecg-checker.herokuapp.com/
+Project repo: https://github.com/Data-Science-Tanoshimu/ECG-Anomaly-Detection
+
+App url: https://ecg-checker.herokuapp.com/
